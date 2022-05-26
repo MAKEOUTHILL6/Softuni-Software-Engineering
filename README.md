@@ -15,11 +15,11 @@
     <th>Python</th>
 </tr>
 <tr>
-    <td>
+    <th>
         Courses
-    </td>
-    <td>
+    </th>
+    <th>
         Links
-    </td>
+    </th>
 </tr>
-
+</table>
