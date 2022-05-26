@@ -13,7 +13,6 @@
 <table>
 <tr>
     <th>Python</th>
-    <th>SoftUni</th>
 </tr>
     <table>
         <tr>
