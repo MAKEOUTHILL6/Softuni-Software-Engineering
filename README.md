@@ -27,5 +27,8 @@
             <td><a href="https://softuni.bg/trainings/3623/programming-basics-with-python-january-2022">Programming Basics with Python</a></td>
             <td><a href="https://softuni.bg/certificates/details/124592/ece1ce36">Cerfiticate</a></td> 
         </tr>
+        <tr>
+        <td><a href="https://softuni.bg/trainings/3733/programming-fundamentals-with-python-may-2022">Programming Fundamentals with Python</a></td>
+        <td><a href="">Certificate</a></td>
     </table>
 </table>
