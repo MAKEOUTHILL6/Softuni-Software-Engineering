@@ -13,18 +13,20 @@
 <table>
 <tr>
     <th>Python</th>
-    <th>Softuni</th>
+    <th>SoftUni</th>
 </tr>
-<tr>
-    <th>
-        Courses
-    </th>
-    <th>
-        Links
-    </th>
-</tr>
-<tr>
-    <td><a href="https://softuni.bg/trainings/3623/programming-basics-with-python-january-2022">Programming Basics with Python</a></td>
-    <td><a href="https://softuni.bg/certificates/details/124592/ece1ce36">Cerfiticate</a></td> 
-</tr>
+    <table>
+        <tr>
+            <th>
+                Courses
+            </th>
+            <th>
+                Links
+            </th>
+        </tr>
+        <tr>
+            <td><a href="https://softuni.bg/trainings/3623/programming-basics-with-python-january-2022">Programming Basics with Python</a></td>
+            <td><a href="https://softuni.bg/certificates/details/124592/ece1ce36">Cerfiticate</a></td> 
+        </tr>
+    </table>
 </table>
