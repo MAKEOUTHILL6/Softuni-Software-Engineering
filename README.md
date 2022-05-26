@@ -12,7 +12,8 @@
 
 <table>
 <tr>
-    <th align="center">Python</th>
+    <th>Python</th>
+    <th>Python</th>
 </tr>
 <tr>
     <th>
