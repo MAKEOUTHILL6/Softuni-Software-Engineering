@@ -14,7 +14,7 @@
 <tr>
     <th width="357px">Python</th>
 </tr>
-    <table width="357px">
+    <table>
         <tr>
             <th>
                 Courses
