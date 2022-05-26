@@ -16,7 +16,7 @@
 </tr>
 <tr>
     <td>
-    Courses                             Link
+            |           **Courses**           |           Link
     </td>
 </tr>
 
