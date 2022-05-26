@@ -10,4 +10,9 @@
 
 <h2> Certificates </h2>
 
+<table>
+<tr>
+    <th>Python</th>
+</tr>
+
 
