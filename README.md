@@ -12,7 +12,7 @@
 
 <table>
 <tr>
-    <th width="340px">Python</th>
+    <th width="360px">Python</th>
 </tr>
     <table>
         <tr>
