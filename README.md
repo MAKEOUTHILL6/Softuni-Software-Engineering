@@ -12,7 +12,11 @@
 
 <table>
 <tr>
-    <th style="width=300px">Python</th>
+    <th>Python</th>
 </tr>
-
+<tr>
+    <td>
+    Courses                             Link
+    </td>
+</tr>
 
