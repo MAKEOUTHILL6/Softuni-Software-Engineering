@@ -22,4 +22,9 @@
         Links
     </th>
 </tr>
+<tr>
+    <td>1</td>
+    <td><a href="https://softuni.bg/trainings/3623/programming-basics-with-python-january-2022">Programming Basics with Python</a></td>
+    <td><a href="https://softuni.bg/certificates/details/124592/ece1ce36">Cerfiticate</a></td> 
+</tr>
 </table>
