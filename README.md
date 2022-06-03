@@ -33,7 +33,7 @@
     </table>
     <table>
 <tr>
-    <th width="414px">JavaScript</th>
+    <th width="240px">JavaScript</th>
 </tr>
     <table>
         <tr>
