@@ -31,13 +31,14 @@
         <td><a href="https://softuni.bg/trainings/3733/programming-fundamentals-with-python-may-2022">Programming Fundamentals with Python</a></td>
         <td><a href="">Certificate</a></td>
     </table>
+</table>
     <table>
 <tr>
-    <th width="279px">JavaScript</th>
+    <th width="350px">JavaScript</th>
 </tr>
     <table>
         <tr>
-            <th width="279px">
+            <th>
                 Courses
             </th>
         </tr>
