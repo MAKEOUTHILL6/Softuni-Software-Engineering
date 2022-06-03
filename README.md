@@ -36,7 +36,7 @@
     <th width="279px">JavaScript</th>
 </tr>
     <table>
-        <tr>
+        <tr width="350px">
             <th>
                 Courses
             </th>
