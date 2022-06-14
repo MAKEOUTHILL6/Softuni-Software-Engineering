@@ -31,20 +31,25 @@
         <td><a href="https://softuni.bg/trainings/3733/programming-fundamentals-with-python-may-2022">Programming Fundamentals with Python</a></td>
         <td><a href="">Certificate</a></td>
     </table>
-    <table>
+ <table>
 <tr>
-    <th width="422px">JavaScript</th>
+    <th width="414px">Python</th>
 </tr>
     <table>
         <tr>
             <th>
                 Courses
             </th>
+            <th>
+                Links
+            </th>
         </tr>
         <tr>
-            <td><a href="https://softuni.bg/trainings/3742/programming-basics-with-javascript-april-2022">Programming Basics with JavaScript</a></td>
+            <td><a href="https://softuni.bg/trainings/3623/programming-basics-with-python-january-2022">Programming Basics with Python</a></td>
+            <td><a href="https://softuni.bg/certificates/details/124592/ece1ce36">Cerfiticate</a></td> 
         </tr>
+        <tr>
+        <td><a href="https://softuni.bg/trainings/3733/programming-fundamentals-with-python-may-2022">Programming Fundamentals with Python</a></td>
+        <td><a href="">Certificate</a></td>
     </table>
-</table>
-</table>
     
