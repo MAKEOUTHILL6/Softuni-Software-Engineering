@@ -33,7 +33,7 @@
     </table>
  <table>
 <tr>
-    <th width="414px">Python</th>
+    <th width="414px">JavaScript</th>
 </tr>
     <table>
         <tr>
@@ -41,15 +41,15 @@
                 Courses
             </th>
             <th>
-                Links
+                No Links
             </th>
         </tr>
         <tr>
-            <td><a href="https://softuni.bg/trainings/3623/programming-basics-with-python-january-2022">Programming Basics with Python</a></td>
+            <td><a href="https://softuni.bg/trainings/3623/programming-basics-with-python-january-2022">Programming Basics with JavasScript</a></td>
             <td><a href="https://softuni.bg/certificates/details/124592/ece1ce36">Cerfiticate</a></td> 
         </tr>
         <tr>
-        <td><a href="https://softuni.bg/trainings/3733/programming-fundamentals-with-python-may-2022">Programming Fundamentals with Python</a></td>
-        <td><a href="">Certificate</a></td>
+        <td><a href="https://softuni.bg/trainings/3733/programming-fundamentals-with-python-may-2022">Programming Fundamentals with JavaScript</a></td>
+        <td><a href="">N/A</a></td>
     </table>
     
