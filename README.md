@@ -41,15 +41,15 @@
                 Courses
             </th>
             <th>
-                No Links
+                Links
             </th>
         </tr>
         <tr>
-            <td><a href="https://softuni.bg/trainings/3623/programming-basics-with-python-january-2022">Programming Basics with JavasScript</a></td>
-            <td><a href="https://softuni.bg/certificates/details/124592/ece1ce36">Cerfiticate</a></td> 
+            <td><a href="https://softuni.bg/trainings/3742/programming-basics-with-javascript-april-2022">Programming Basics with JavaScript</a></td>
+            <td><a href="https://softuni.bg/certificates/details/124592/ece1ce36">N/A</a></td> 
         </tr>
         <tr>
-        <td><a href="https://softuni.bg/trainings/3733/programming-fundamentals-with-python-may-2022">Programming Fundamentals with JavaScript</a></td>
+        <td><a href="https://softuni.bg/trainings/3732/programming-fundamentals-with-javascript-may-2022#lesson-40465">Programming Fundamentals with JavaScript</a></td>
         <td><a href="">N/A</a></td>
     </table>
     
